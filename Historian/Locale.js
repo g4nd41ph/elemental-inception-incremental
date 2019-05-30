@@ -1,5 +1,5 @@
 var locale = {
-	exchangeStringLoad: "Loading from exchange string is experimental feature. Providing incorrect string can break the game. Use savingSystem.hardReset() in case of troubles.",
+	exchangeStringLoad: "Loading from exchange strings is an experimental feature. Providing incorrect data can break the game. Use savingSystem.hardReset() in case of trouble.",
 	hardReset: "This will erase all of your progress. Proceed?",
 	reset: "Hard Reset",
 	efficiency: "Efficiency",
@@ -106,7 +106,7 @@ var locale = {
 		machineAluminum: "Industrial Storage",
 		machineIron: "Industrial Container",
 		machineSteel: "Blast Furnace",
-		machineClay: "Potter's heel",
+		machineClay: "Potter's Wheel",
 		machinePlastic: "Printing Press",
 		machineSilicon: "Arc Furnace",
 		machineAcid: "Glassy Shaker",
@@ -257,7 +257,7 @@ var locale = {
 		soilAdvMerge1: "Assimilated Soil Merge",
 
 		obsidianMerge1: "Tiered Obsidian Merge",
-		obsidianCooling1: "Lava's not Hot",
+		obsidianCooling1: "Lava's Not Hot",
 
 		lavaMerge1: "Tiered Lava Merge",
 
@@ -364,12 +364,12 @@ var locale = {
 		cryospireSetup1: "Rise of Cryospires",
 		cryospireCool1: "Cryospire Cooling Architecture",
 		cryospireMelt1: "Cryospire Meltdown",
-		cryospireMelt2: "Just melt it!",
+		cryospireMelt2: "Just Melt it!",
 
 		vortexSetup1: "Vortex Creation",
 		vortexCool1: "Vortex Cooling Complex",
 		vortexMelt1: "Vortex Meltdown",
-		vortexMelt2: "Let it melt!",
+		vortexMelt2: "Let it Melt!",
 
 		blazeIgnite1: "Blazing Ingnition",
 		blazeDecay1: "Ashen Fade",
@@ -423,7 +423,7 @@ var locale = {
 		foldedSpatialCreation1: "Quintuple Compressed Space",
 		foldedSpatialProduce1: "Single Sacrifice",
 
-		foldedTemporalCreation1: "Sixtuple Compressed Space",
+		foldedTemporalCreation1: "Sextuple Compressed Space",
 		foldedTemporalProduce1: "Single Infinity",
 		foldedTemporalShenigans1: "Time Dilation",
 
@@ -447,7 +447,7 @@ var locale = {
 		aluminumAlchemy1: "Fluffy Way",
 
 		ironStart1: "Stiff Way",
-		ironAlchemy1: "Oh snap, here we go again.",
+		ironAlchemy1: "Oh Snap, Here We Go Again.",
 		ironAlchemy2: "Da Wae",
 
 		steelProduction1: "Unyielding Way",
@@ -487,7 +487,7 @@ var locale = {
 		gemGrow13: "I",
 		gemGrow14: "P",
 		gemGrow15: "I",
-		gemGrow16: "N",
+		gemGrow16: "T",
 		gemGrow17: "A",
 		gemGrow18: "T",
 		gemGrow19: "O",
